@@ -1,6 +1,5 @@
-<!-- template para la pagina de inicio en caso de no haber front page -->
-<!-- tambien podemos hacer mas paginas con custom code si ponemos nombre-page.php -->
-<!-- por ejemplo la pagina de about-page.php -->
-<!-- se usa para las paginas estaticas que no son blog -->
+<!-- es el layout para todas las paginas en general -->
+<!-- tambien se puede definir el layout especifico de una pagina por ejemplo la pagina de about-page.php -->
+<!-- puede afectar a la pagina de inicio estatica si no hay front page -->
 
 page
